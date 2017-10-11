@@ -1,3 +1,10 @@
+img{
+  display: block;
+  margin: auto;
+  width: auto;
+}
+
+
 h1 {
   color: #CB4B30;
   text-align: center;
