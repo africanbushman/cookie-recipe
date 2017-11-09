@@ -6,7 +6,7 @@ img{
 
 
 h1 {
-  color: #CB4B30;
+  color: #FFF;
   text-align: center;
 }
 
@@ -26,8 +26,9 @@ ol {
   line-height: 40px;
 }
 body{
-  background-color: #E7F8D2;
   display: flow-root;
   margin-top: inherit;
-
+ background-image: url("https://cms.splendidtable.org/sites/default/files/styles/w2000/public/chocolate-chip-cookie-2.jpg?itok=DxYtiRK-");
+ background-repeat: no-repeat;
+ background-attachment: fixed;
 }
